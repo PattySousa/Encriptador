@@ -7,6 +7,9 @@ Elementar meu caro Watson!
 
 O desafio era criar uma frase Criptografada e em seguida, descriptografá-la.
 
+=> Linguagens utilizadas neste projeto (HTML5, CSS3 e Javascript)
+
+
 
 ###  Se preferir, postei o vídeo no meu Linkedln sobre este projeto. 
 
